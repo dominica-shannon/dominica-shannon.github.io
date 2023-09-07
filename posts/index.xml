@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>blog post 1</title>
+      <link>https://dominica-shannon.github.io/posts/2023-01/</link>
+      <pubDate>Tue, 22 Aug 2023 16:56:54 +0000</pubDate>
+      
+      <guid>https://dominica-shannon.github.io/posts/2023-01/</guid>
+      <description>Heading 1 Sample Blog post 1 layout
+Sample Blog post 1 line 2</description>
+    </item>
+    
+    <item>
       <title>Code Block Test</title>
       <link>https://dominica-shannon.github.io/posts/code-block-test/</link>
       <pubDate>Sun, 27 Jun 2021 09:00:00 +0000</pubDate>
